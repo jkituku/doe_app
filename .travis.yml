@@ -6,4 +6,4 @@ services:
 before_install:
    - docker build -t jkituku/doe_app -f Dockerfile.dev .
 script:
-   - docker run jkituku/doe_app php run test
+   - docker run jkituku/doe_app php index.php
