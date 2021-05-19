@@ -23,7 +23,7 @@
     
     <header>
       <h1>
-        <a href="#home">REMMY's CHILLSPOT</a>
+        <a href="#home">REMMY'S CHILLSPOT</a>
       </h1>
       <nav>
         <a href="#about">About</a>
